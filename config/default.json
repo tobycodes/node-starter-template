@@ -1,0 +1,12 @@
+{
+  "app": {
+    "name": "GiversZone",
+    "port": 8080,
+    "clientUrl": "http://localhost:3000",
+    "timeout": 5000
+  },
+  "db": {
+    "url": "postgresql://postgres@localhost:5432/dev-db"
+  },
+  "aws": {}
+}

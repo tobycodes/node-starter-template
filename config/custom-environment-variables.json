@@ -1,0 +1,11 @@
+{
+  "db": {
+    "url": "DATABASE_URL"
+  },
+  "aws": {
+    "s3BucketName": "AWS_BUCKET_NAME",
+    "accessKeyId": "AWS_ACCESS_KEY_ID",
+    "secretAccessKey": "AWS_SECRET_ACCESS_KEY",
+    "region": "AWS_REGION"
+  }
+}
